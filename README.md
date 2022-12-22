@@ -60,7 +60,7 @@
 
 <h3 align="left">I love meeting and connecting with new people :</h3>
 <p align="left">
-<a href="https://linkedin.com/in/omkar sapkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar sapkal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/omkar-sapkal-b90118245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar sapkal" height="30" width="40" /></a>
 
 .
   .
