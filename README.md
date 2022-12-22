@@ -6,7 +6,8 @@
 - ### I have always been keen to learn the behind the scenes of an Android app right from the day I played my first mobile game.
 - ### I am looking for internship opportunities for the same.
 - ### We can collab as well. I would be more than happy to work on a app together.
-- ### Connect with me on Linkedin
+- ### I have 10 months of experience in developing apps.
+- ### Connect with me on Linkedin.
 
 .
   .
