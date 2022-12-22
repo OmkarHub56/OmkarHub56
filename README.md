@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋, Welcome 🙏 </h1>
-<h3 align="center">I'm <b>Omkar Sapkal</b> 😁, a Android Developer form India</h3>
+<h3 align="center">I'm <b>Omkar Sapkal</b> 🙋‍♂️, a Android Developer 📱 form India</h3>
 
 ![alt text](https://github.com/OmkarHub56/OmkarHub56/blob/main/Android-Logo.png?raw=true)
 
-- #### I have always been keen to learn the behind the scenes of an Android app right from the day i played my first mobile game.
-- #### I am looking for internship opportunities for the same.
-- #### We can collab as well. I would be more than happy to work on a particular idea together.
+- ### I have always been keen to learn the behind the scenes of an Android app right from the day I played my first mobile game.
+- ### I am looking for internship opportunities for the same.
+- ### We can collab as well. I would be more than happy to work on a app together.
+- ### Connect with me on Linkedin
 
 .
   .
@@ -57,8 +58,23 @@
   .
   .
   .
+    .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
 
-<h3 align="left">I love meeting and connecting with new people :</h3>
+<h3 align="left">I love meeting 🤝 and connecting 🔗 with new people :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/omkar-sapkal-b90118245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar sapkal" height="30" width="40" /></a>
 
@@ -112,9 +128,24 @@
   .
   .
   .
+    .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
 
 
-<h3 align="left">Languages and Tools 💪:</h3> 
+<h3 align="left">Languages and Tools I regularly use 💪:</h3> 
 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
@@ -159,6 +190,21 @@
   .
   .
   .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+  .
+    .
   .
   .
   .
