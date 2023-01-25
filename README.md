@@ -3,11 +3,10 @@
 
 ![alt text](https://github.com/OmkarHub56/OmkarHub56/blob/main/Android-Logo.png?raw=true)
 
-- ### I have always been keen to learn the behind the scenes of an Android app right from the day I played my first mobile game.
-- ### I am looking for internship opportunities for the same.
-- ### We can collab as well. I would be more than happy to work on an app together.
-- ### I have 10 months of experience in developing apps.
-- ### Connect with me on Linkedin.
+- The curiosity of what exactly happens behind a complex mobile application or a multi player shooting game when the user interacts with it led me to taking Android app development as my career option
+- I have been building android apps for the last 10 months with one on the play store as well 💪. Had a great time learning quite a bit in the process
+- Recently, I have also started to look up to open source projects and trying to contribute in them
+- I am also looking for some internship opportunities so as to get my hands on to professional environment. I would be really gratefull if you could help me out with the same
 
 .
   .
@@ -226,10 +225,10 @@
 
 <h3 align="left">Interested in competitive programming? Check out my CP profiles:</h3>
 
-- *Codechef* :
+- Codechef :
 <a href="https://www.codechef.com/users/ospkl45" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ospkl45" height="30" width="40" /></a>
 
-* *Codeforces* :
+- Codeforces :
 <a href="https://codeforces.com/profile/procoderomk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="procoderomk" height="30" width="40" /></a>
 </p>
 
